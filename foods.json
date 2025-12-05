@@ -447,6 +447,25 @@
   "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
   "region": "Mongolia",
   "type": "Beverage"
+},
+
+
+
+
+{
+    "id": "76",
+    "name": "Haleem",
+    "category": "Main Course",
+    "origin": "Lahore, Pakistan",
+    "text": "Haleem is a slow-cooked meat and lentil stew popular during Ramadan in Lahore. This traditional dish is prepared by simmering beef or lamb with split peas, lentils, and aromatic spices including cinnamon, cardamom, and cumin for several hours until the meat becomes extremely tender and the lentils break down into a thick, rich consistency. The ingredients are traditionally ground together using a wooden pestle to create a uniform texture. Haleem is served with fresh naan bread, sliced onions, and lime juice.",
+    "region": "Lahore, Pakistan",
+    "type": "Main Course",
+    "ingredients": "Beef or lamb, split peas, red lentils, wheat grains, cinnamon, cardamom, cumin, ginger, garlic, onions, ghee, salt",
+    "preparation_method": "Slow-simmer all ingredients for 8-10 hours until meat and lentils break down into uniform paste; traditionally ground with wooden pestle; served with naan, onions, and lime",
+    "nutritional_highlights": "High in protein (25-30g per serving), iron from lentils, B vitamins, sustained energy release from slow-cooking",
+    "cultural_significance": "Sacred Ramadan tradition in Lahore, commonly prepared in large quantities for communal sharing and breaking fast, symbol of family unity",
+    "dietary_classification": "Contains gluten (wheat grains), not vegetarian, can be made halal",
+    "interesting_facts": "Ancient Mughal dish that has been part of South Asian cuisine for centuries; each family has its own recipe; traditionally cooked overnight in large communal pots"
 }
 
 ]
