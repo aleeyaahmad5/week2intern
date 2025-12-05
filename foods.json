@@ -642,5 +642,20 @@
     "cultural_significance": "Heritage French dish from Burgundy region with over 500-year history; represents French culinary tradition and rustic elegance; considered pinnacle of French home cooking; UNESCO recognized French gastronomic meal as intangible cultural heritage",
     "dietary_classification": "Not vegetarian, contains alcohol (wine), contains dairy (butter), gluten if thickened with flour, can be made gluten-free with cornstarch",
     "interesting_facts": "Traditionally made with tough rooster bird slowly braised until tender; Julia Child popularized recipe in America through 'Mastering the Art of French Cooking'; long braising breaks down collagen into gelatin creating silky sauce; red wine acts as both flavor and tenderizer"
+  },
+  {
+    "id": "89",
+    "name": "Paella",
+    "category": "Main Course",
+    "origin": "Spain (Valencia region)",
+    "text": "Paella is a Spanish rice dish prepared in a wide, shallow pan using a traditional cooking method: saffron threads are steeped in warm broth to develop color and flavor, then onions and garlic are sautéed in olive oil for 2-3 minutes. Short-grain rice (typically bomba or paella rice) is added and toasted for 2-3 minutes, then the saffron broth is added all at once and brought to a boil. The heat is then reduced, and the dish simmers uncovered for 18-20 minutes without stirring, allowing a flavorful crust called socarrat to form on the bottom.",
+    "region": "Spain",
+    "type": "Main Course",
+    "ingredients": "Bomba or paella rice, saffron threads, seafood (shrimp, mussels, clams) or chicken, onion, garlic, bell pepper, tomatoes, peas, vegetable or seafood broth, white wine, olive oil, paprika, parsley, lemon, salt, pepper",
+    "preparation_method": "Steep saffron threads in 1/4 cup warm broth; heat broth separately; heat olive oil in wide paella pan; sauté onion, garlic, and bell pepper 3-4 minutes; add rice and toast 2-3 minutes while stirring; add saffron broth and remaining broth all at once; bring to boil; add seafood/chicken; reduce heat and simmer uncovered 18-20 minutes without stirring until rice is tender and crust (socarrat) forms on bottom; add peas in last 5 minutes; garnish with fresh parsley and lemon wedges",
+    "nutritional_highlights": "Complete meal with carbohydrates from rice, protein from seafood/chicken (20-25g per serving), antioxidants from saffron, lycopene from tomatoes, minerals from shellfish, approximately 450 calories per serving, balanced nutrition",
+    "cultural_significance": "Ancient Spanish dish representing Valencia region's agricultural heritage; UNESCO recognized Spanish Mediterranean diet and paella tradition as intangible cultural heritage; symbol of Spanish hospitality and celebration; represents thousands-year food history",
+    "dietary_classification": "Can be made vegetarian with vegetables only, contains seafood/meat options, contains wine (cooks off), gluten-free with rice, dairy-free, can be adapted for allergies",
+    "interesting_facts": "Paella originated as peasant dish using available ingredients; socarrat (crispy bottom layer) considered most flavorful part; saffron is world's most expensive spice at $10-15 per gram; traditional paella cooked in open-air over wood fire; each region of Spain has unique paella variation"
   }
 ]
