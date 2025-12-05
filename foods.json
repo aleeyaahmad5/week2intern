@@ -447,13 +447,9 @@
   "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
   "region": "Mongolia",
   "type": "Beverage"
-},
+}
 
-
-
-
-{
-    "id": "76",
+]
     "name": "Haleem",
     "category": "Main Course",
     "origin": "Lahore, Pakistan",
