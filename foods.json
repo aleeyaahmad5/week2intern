@@ -507,5 +507,20 @@
     "cultural_significance": "Sacred Ramadan pre-dawn meal (Sehri) tradition; symbol of Lahore's resourceful cuisine; warm, comforting dish for winter; believed to have healing and medicinal properties in traditional medicine",
     "dietary_classification": "Not vegetarian, contains animal products, high in gelatin and collagen",
     "interesting_facts": "Must be cooked overnight to properly soften trotters; excessive heat prevents proper gelatinization; served at specialized Lahore restaurants; particularly popular in old city areas"
+  },
+  {
+    "id": "80",
+    "name": "Keema Paratha",
+    "category": "Main Course",
+    "origin": "Lahore, Pakistan",
+    "text": "Keema Paratha is a traditional Lahore breakfast dish consisting of flatbread filled with spiced ground meat cooked with onions, green chilies, ginger, and aromatic spices. The dough is rolled with the seasoned meat filling inside, then cooked on a griddle until golden and crispy on the outside while remaining soft inside. Keema Paratha is a staple breakfast food in Lahore households and represents everyday Pakistani home cooking. The dish is quick to prepare yet deeply satisfying, often served with yogurt, fresh pickles, and sliced onions.",
+    "region": "Lahore, Pakistan",
+    "type": "Main Course",
+    "ingredients": "Whole wheat flour, ground lamb or beef, onions, green chilies, ginger, garlic, garam masala, turmeric, cumin, coriander, salt, ghee, fresh cilantro",
+    "preparation_method": "Prepare dough with flour, salt, and water; let rest 30 minutes; fry ground meat with onions and spices until cooked (8-10 minutes); roll dough thin, add meat filling, fold and roll again; cook on griddle with ghee over medium-high heat 3-4 minutes per side until golden; serve with yogurt and pickles",
+    "nutritional_highlights": "Balanced nutrition with protein (18-22g per paratha), carbohydrates from wheat, B vitamins, iron from meat and wheat",
+    "cultural_significance": "Essential Lahore breakfast staple passed down through generations; represents quick yet nutritious home-cooked meal; eaten in virtually every Lahore household",
+    "dietary_classification": "Contains gluten and wheat, not vegetarian, contains meat and ghee (dairy)",
+    "interesting_facts": "Can be made ahead and reheated, popular with schoolchildren for breakfast; sold by street vendors; simple recipe versatile for different meat preferences"
   }
 ]
