@@ -657,5 +657,20 @@
     "cultural_significance": "Ancient Spanish dish representing Valencia region's agricultural heritage; UNESCO recognized Spanish Mediterranean diet and paella tradition as intangible cultural heritage; symbol of Spanish hospitality and celebration; represents thousands-year food history",
     "dietary_classification": "Can be made vegetarian with vegetables only, contains seafood/meat options, contains wine (cooks off), gluten-free with rice, dairy-free, can be adapted for allergies",
     "interesting_facts": "Paella originated as peasant dish using available ingredients; socarrat (crispy bottom layer) considered most flavorful part; saffron is world's most expensive spice at $10-15 per gram; traditional paella cooked in open-air over wood fire; each region of Spain has unique paella variation"
+  },
+  {
+    "id": "90",
+    "name": "Laksa",
+    "category": "Soup",
+    "origin": "Malaysia (Penang and Kuala Lumpur regions)",
+    "text": "Laksa is a beloved Malaysian noodle soup combining rich coconut broth with aromatic spices and chewy noodles. The broth is prepared by simmering coconut milk with a spice paste made from shallots, garlic, galangal, turmeric, chilies, and shrimp paste for complex depth of flavor. The cooking method involves toasting dried chilies and spices to release essential oils, then grinding them into a paste. This spice paste is fried in coconut oil until fragrant, then combined with coconut milk and broth, and simmered to allow flavors to meld.",
+    "region": "Malaysia",
+    "type": "Soup",
+    "ingredients": "Rice noodles, dried red chilies, shallots, garlic, galangal, turmeric, shrimp paste (belacan), coconut milk, vegetable or chicken broth, coconut oil, bean sprouts, hard-boiled eggs, fried tofu, fish cakes, fresh cilantro, mint, lime, salt",
+    "preparation_method": "Toast dried chilies and spices in dry pan 1-2 minutes; grind with garlic, shallots, and galangal into paste; heat coconut oil and fry spice paste 2-3 minutes until fragrant; add coconut milk and broth; simmer 10-15 minutes to meld flavors; cook rice noodles separately according to package directions; place noodles in serving bowls; pour hot laksa broth over noodles; top with bean sprouts, halved eggs, tofu, fish cakes, herbs, and serve with lime wedges",
+    "nutritional_highlights": "Coconut milk provides medium-chain triglycerides (MCTs), noodles offer carbohydrates, hard-boiled eggs add protein (6g per egg), turmeric contains curcumin with anti-inflammatory properties, approximately 380 calories per serving, warming comfort food with medicinal spices",
+    "cultural_significance": "National treasure of Malaysia representing multicultural heritage (Chinese, Malay, Indian influences); iconic Malaysian dish recognized worldwide; symbol of street food culture in Southeast Asia; generations of family recipes passed down",
+    "dietary_classification": "Contains gluten in noodles (rice noodle alternative available), contains shellfish (shrimp paste), dairy-free, can be vegetarian without fish cakes, adjustable spice level",
+    "interesting_facts": "Two main types: Assam laksa (tangy tamarind-based, Penang style) and Coconut laksa (creamy, Kuala Lumpur style); complex flavor from combination of Indian, Chinese, and Malay cuisines; street food staple sold by specialized vendors with family recipes dating back 100+ years; turmeric's curcumin studied for health benefits in modern medicine"
   }
 ]
