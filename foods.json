@@ -477,5 +477,20 @@
     "cultural_significance": "Iconic Lahore street food and family staple; represents modern Pakistani urban food culture; often prepared for celebrations, festivals, and casual family meals",
     "dietary_classification": "Not vegetarian, contains dairy (ghee), can be made halal",
     "interesting_facts": "Named after the specific cooking vessel (karahi); traditionally cooked in front of customers at street food vendors for authenticity and freshness; became popular in Pakistan during the 1980s"
+  },
+  {
+    "id": "78",
+    "name": "Seekh Kebab",
+    "category": "Appetizer",
+    "origin": "Lahore, Pakistan",
+    "text": "Seekh Kebab is a popular Lahore appetizer consisting of spiced ground meat molded onto long metal skewers and grilled over charcoal. The minced meat mixture includes onions, green chilies, ginger, garlic, and aromatic spices such as cumin and coriander. After grilling, the exterior becomes smoky and charred while the interior remains juicy and flavorful. Seekh Kebabs are typically served with fresh lime wedges, sliced onions, and mint chutney at gatherings, weddings, and street food vendors throughout Lahore.",
+    "region": "Lahore, Pakistan",
+    "type": "Appetizer",
+    "ingredients": "Ground lamb or beef, onions, green chilies, ginger, garlic, cumin, coriander, garam masala, salt, fresh cilantro, mint, oil for basting",
+    "preparation_method": "Mix ground meat with finely chopped onions, green chilies, ginger-garlic paste, and spices; shape mixture around flat metal skewers; grill over charcoal fire 10-12 minutes, turning occasionally and basting with oil; serve with lemon wedges, onions, and mint chutney",
+    "nutritional_highlights": "High protein content (20-24g per skewer), iron, B vitamins; moderate fat; low carbohydrates",
+    "cultural_significance": "Essential wedding and celebration appetizer; symbol of Lahore's social gatherings and hospitality; served at engagements, festivals, and formal events",
+    "dietary_classification": "Not vegetarian, gluten-free, contains meat",
+    "interesting_facts": "Charcoal grilling gives distinctive smoky flavor; traditionally prepared by specialized kebab makers who pass recipes through generations; popular at Lahore's famous Badshahi food stalls"
   }
 ]
