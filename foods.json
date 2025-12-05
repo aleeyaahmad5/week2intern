@@ -582,5 +582,20 @@
     "cultural_significance": "Staple of macrobiotic cuisine and Asian health traditions; represents balance in Yin-Yang philosophy of eating; widely recommended by nutritionists and health practitioners",
     "dietary_classification": "Vegetarian, vegan, gluten-free, dairy-free, low-fat, whole-grain",
     "interesting_facts": "Sulforaphane in broccoli activates cancer-fighting enzymes when raw or lightly cooked; brown rice retains germ and bran providing maximum nutrition; steam cooking preserves vitamin C better than boiling"
+  },
+  {
+    "id": "85",
+    "name": "Grilled Chicken Breast with Sweet Potato",
+    "category": "Main Course",
+    "origin": "Global/American fitness cuisine",
+    "text": "Grilled Chicken Breast with Sweet Potato is a lean, protein-rich healthy meal supporting muscle development and weight management. Chicken breast contains approximately 31 grams of protein per 100g serving with minimal fat, making it ideal for fitness-conscious individuals. Sweet potatoes provide complex carbohydrates, approximately 3.6 grams of fiber per medium potato, and beta-carotene (vitamin A) supporting eye health.",
+    "region": "Global",
+    "type": "Main Course",
+    "ingredients": "Chicken breast, sweet potatoes, olive oil, lemon, garlic, rosemary or thyme, salt, pepper, optional paprika or cayenne",
+    "preparation_method": "Season chicken breasts with herbs, salt, and pepper; preheat grill to 375°F; grill 15-20 minutes until internal temperature reaches 165°F (check with meat thermometer); simultaneously bake sweet potatoes at 400°F for 45-50 minutes until fork-tender; slice chicken and serve alongside sweet potato; drizzle with olive oil and lemon",
+    "nutritional_highlights": "31g lean protein per 100g chicken (40g per serving), complex carbohydrates from sweet potato, 3.6g fiber per medium potato, 1000+ IU beta-carotene (vitamin A) per potato, minimal saturated fat, only 350 calories per plate, perfect 4:1 protein to carb ratio for muscle recovery",
+    "cultural_significance": "Cornerstone of sports nutrition and fitness culture worldwide; represents clean eating movement; popular meal prep choice for athletes and bodybuilders",
+    "dietary_classification": "Gluten-free, dairy-free, high-protein, low-fat, paleo-friendly",
+    "interesting_facts": "Grilling preserves more nutrients than boiling; sweet potato resistant starch increases when cooled, aiding digestion; combination perfectly supports post-workout muscle recovery and repair; meal prep staple that lasts 4-5 days refrigerated"
   }
 ]
