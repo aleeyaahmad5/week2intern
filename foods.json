@@ -537,5 +537,20 @@
     "cultural_significance": "Popular Middle Eastern and Mediterranean comfort soup; nutritionally celebrated in plant-based diets; widely served in health-conscious restaurants worldwide",
     "dietary_classification": "Vegetarian, vegan, gluten-free, dairy-free, high-protein plant-based",
     "interesting_facts": "Ancient soup known for thousands of years in Mediterranean cuisine; iron bioavailability enhanced when consumed with vitamin C; considered superfood for its nutritional density"
+  },
+  {
+    "id": "82",
+    "name": "Grilled Salmon with Quinoa",
+    "category": "Main Course",
+    "origin": "Global/Scandinavian-South American fusion",
+    "text": "Grilled Salmon with Quinoa is an excellent healthy meal combining omega-3 rich fatty fish with a complete protein grain. Salmon provides approximately 25 grams of high-quality protein and 2.3 grams of omega-3 fatty acids per 100g serving, which support cardiovascular and brain health. Quinoa contains all nine essential amino acids, providing 8 grams of protein per cooked cup. Together, this meal provides approximately 35 grams of protein, healthy fats, and complex carbohydrates.",
+    "region": "Global",
+    "type": "Main Course",
+    "ingredients": "Salmon fillet, quinoa, lemon, fresh herbs (dill, parsley), olive oil, garlic, salt, pepper, vegetables (broccoli or asparagus optional)",
+    "preparation_method": "Rinse quinoa and cook in vegetable broth for 15 minutes; season salmon with lemon, herbs, salt, and pepper; preheat grill to 400°F; grill salmon skin-side up 12-15 minutes until flesh flakes easily; serve salmon over fluffy quinoa with fresh vegetables",
+    "nutritional_highlights": "25g high-quality protein from salmon per 100g, 8g complete protein from quinoa (contains all 9 amino acids), 2.3g omega-3 fatty acids per 100g salmon, 35g total protein per plate, supports heart and brain health, 320 calories per serving",
+    "cultural_significance": "Modern superfood bowl trending in healthy restaurants worldwide; represents contemporary nutritional science applied to traditional cuisines; popular in fitness and wellness communities",
+    "dietary_classification": "Gluten-free, dairy-free, high-protein, omega-3 rich, low-carb option",
+    "interesting_facts": "Omega-3 fatty acids reduce inflammation and support mental health; quinoa complete protein makes it ideal for vegetarians; salmon grilling brings out natural oils enhancing flavor and health benefits"
   }
 ]
