@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "1",
     "text": "A banana is a yellow fruit that is soft and sweet.",
@@ -247,7 +247,7 @@
   },
   {
     "id": "42",
-    "text": "Bibimbap is a Korean mixed rice dish topped with sautéed vegetables, sliced meat, a fried egg, and chili paste.",
+    "text": "Bibimbap is a Korean mixed rice dish topped with sautÃ©ed vegetables, sliced meat, a fried egg, and chili paste.",
     "region": "Korea",
     "type": "Main Course"
   },
@@ -313,7 +313,7 @@
   },
   {
     "id": "53",
-    "text": "Hangi is a traditional Māori method of cooking meat and vegetables in an underground oven.",
+    "text": "Hangi is a traditional MÄori method of cooking meat and vegetables in an underground oven.",
     "region": "New Zealand",
     "type": "Main Course"
   },
@@ -448,5 +448,4 @@
     "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
     "region": "Mongolia",
     "type": "Beverage"
-  }
-]
+  }},
