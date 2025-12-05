@@ -567,5 +567,20 @@
     "cultural_significance": "Ancient Mediterranean staple representing healthy lifestyle in Greece; considered one of world's healthiest dishes by nutritionists; symbol of Mediterranean diet longevity benefits",
     "dietary_classification": "Vegetarian, can be vegan if feta omitted, gluten-free, dairy-free option available",
     "interesting_facts": "Mediterranean diet documented to reduce heart disease risk by 30%; chickpeas are ancient legume cultivated for 7,000 years; feta fermentation process creates beneficial probiotics"
+  },
+  {
+    "id": "84",
+    "name": "Steamed Broccoli with Brown Rice",
+    "category": "Main Course",
+    "origin": "Global/Macrobiotic",
+    "text": "Steamed Broccoli with Brown Rice is a simple, nutrient-packed healthy meal offering complete nutrition. Brown rice provides 5 grams of protein and 3.5 grams of fiber per cooked cup, along with B vitamins and magnesium supporting energy production. Broccoli contributes 3.7 grams of protein and 2.4 grams of fiber per cup raw, along with vitamin C (approximately 89mg per cup), folate, and cancer-fighting sulforaphane compounds.",
+    "region": "Global",
+    "type": "Main Course",
+    "ingredients": "Brown rice, fresh broccoli florets, olive oil, garlic, sea salt, black pepper, fresh lemon, optional sesame seeds or ginger",
+    "preparation_method": "Rinse brown rice and cook in 1:2.5 water ratio for 30-40 minutes until tender; while rice cooks, cut broccoli into florets; steam broccoli for 5-7 minutes until tender-crisp; heat olive oil in pan with minced garlic for 1 minute; toss steamed broccoli with garlic oil, season with salt, pepper, and squeeze of lemon; serve alongside brown rice",
+    "nutritional_highlights": "Total 8.7g protein per serving (5g rice, 3.7g broccoli), 5.9g dietary fiber, vitamin C (89mg from broccoli), folate, magnesium, B vitamins, sulforaphane (cancer-fighting compound), only 280 calories per plate, glycemic index 68 (medium), excellent for sustained energy",
+    "cultural_significance": "Staple of macrobiotic cuisine and Asian health traditions; represents balance in Yin-Yang philosophy of eating; widely recommended by nutritionists and health practitioners",
+    "dietary_classification": "Vegetarian, vegan, gluten-free, dairy-free, low-fat, whole-grain",
+    "interesting_facts": "Sulforaphane in broccoli activates cancer-fighting enzymes when raw or lightly cooked; brown rice retains germ and bran providing maximum nutrition; steam cooking preserves vitamin C better than boiling"
   }
 ]
