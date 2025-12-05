@@ -627,5 +627,20 @@
     "cultural_significance": "Ancient Aztec food with 500+ year heritage; street food symbol of Mexican culture and cuisine; represents food democracy where everyone enjoys tacos; iconic symbol of Mexico worldwide",
     "dietary_classification": "Can be vegetarian with bean filling, gluten-free with corn tortillas, dairy-free without cheese and sour cream, high-protein with meat",
     "interesting_facts": "Tacos originated during Aztec era, originally filled with fish; each Mexican region has unique taco tradition (al pastor, carnitas, barbacoa, etc.); taco shell typically contains 12 corn kernels; stands as most consumed food in Mexico with billions eaten annually"
+  },
+  {
+    "id": "88",
+    "name": "Coq au Vin",
+    "category": "Main Course",
+    "origin": "French Burgundy region",
+    "text": "Coq au Vin is a classic French braised chicken dish prepared by searing chicken pieces in butter and bacon until golden, then removing them and sautéing onions, carrots, and mushrooms. The chicken is returned to the pot with red wine, beef broth, tomato paste, and aromatic herbs including thyme and bay leaves. The pot is covered and simmered in a 350°F oven for 1.5-2 hours until the chicken is very tender. Pearl onions are often added near the end of cooking along with additional mushrooms.",
+    "region": "France",
+    "type": "Main Course",
+    "ingredients": "Chicken pieces, bacon, pearl onions, mushrooms, carrots, garlic, red wine (Burgundy), beef broth, tomato paste, thyme, bay leaf, butter, salt, pepper, flour",
+    "preparation_method": "Cut bacon into lardons and cook until crispy; remove bacon and reserve; sear chicken pieces in bacon fat until golden 3-4 minutes per side; remove chicken; sauté onions, carrots, garlic in same pot 5 minutes; dust with flour and stir 1 minute; add red wine and beef broth; return chicken and bacon; add tomato paste, thyme, bay leaf; cover and braise in 350°F oven 1.5-2 hours until chicken very tender; add pearl onions and mushrooms in last 30 minutes; season with salt and pepper",
+    "nutritional_highlights": "High protein from chicken (25-30g per serving), iron from red wine and chicken, B vitamins, antioxidants from red wine (resveratrol), approximately 450 calories per serving with sauce, rich in collagen from braising",
+    "cultural_significance": "Heritage French dish from Burgundy region with over 500-year history; represents French culinary tradition and rustic elegance; considered pinnacle of French home cooking; UNESCO recognized French gastronomic meal as intangible cultural heritage",
+    "dietary_classification": "Not vegetarian, contains alcohol (wine), contains dairy (butter), gluten if thickened with flour, can be made gluten-free with cornstarch",
+    "interesting_facts": "Traditionally made with tough rooster bird slowly braised until tender; Julia Child popularized recipe in America through 'Mastering the Art of French Cooking'; long braising breaks down collagen into gelatin creating silky sauce; red wine acts as both flavor and tenderizer"
   }
 ]
