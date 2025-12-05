@@ -597,5 +597,20 @@
     "cultural_significance": "Cornerstone of sports nutrition and fitness culture worldwide; represents clean eating movement; popular meal prep choice for athletes and bodybuilders",
     "dietary_classification": "Gluten-free, dairy-free, high-protein, low-fat, paleo-friendly",
     "interesting_facts": "Grilling preserves more nutrients than boiling; sweet potato resistant starch increases when cooled, aiding digestion; combination perfectly supports post-workout muscle recovery and repair; meal prep staple that lasts 4-5 days refrigerated"
+  },
+  {
+    "id": "86",
+    "name": "Risotto",
+    "category": "Main Course",
+    "origin": "Northern Italy (Piedmont and Lombardy)",
+    "text": "Risotto is an Italian rice dish prepared through a specific cooking method that creates a creamy texture. Arborio or Carnaroli rice is first toasted in butter and onions for 2-3 minutes, then white wine is added and absorbed. Warm vegetable or chicken broth is added gradually in small amounts, approximately 1/2 cup at a time, with constant stirring after each addition until the liquid is absorbed. The continuous stirring releases starch from the rice, creating natural creaminess without heavy cream. Butter and Parmesan cheese are stirred in at the end.",
+    "region": "Italy",
+    "type": "Main Course",
+    "ingredients": "Arborio or Carnaroli rice, onion, garlic, white wine, vegetable or chicken broth, butter, Parmesan cheese, salt, pepper, saffron optional",
+    "preparation_method": "Heat broth in separate pot; in large pan, melt 2 tbsp butter and sauté onion and garlic 2-3 minutes; add rice and toast 2-3 minutes; add white wine and stir until absorbed; add broth 1/2 cup at a time while stirring constantly; wait until liquid is absorbed before adding next portion; continue for 18-20 minutes until rice is creamy but grains hold shape (al dente); stir in 2 tbsp butter and 1/2 cup grated Parmesan at end; season with salt and pepper",
+    "nutritional_highlights": "Medium-grain rice provides carbohydrates and energy, butter adds fat-soluble vitamins A, D, E; Parmesan adds calcium (400mg per cup) and protein (10g per ounce), approximately 400 calories per serving, comfort food with balanced macronutrients",
+    "cultural_significance": "Iconic Northern Italian dish dating back to Renaissance; Risotto alla Milanese is golden with saffron and served at formal Italian dinners; represents Italian cooking philosophy of technique and quality ingredients; UNESCO recognized as intangible cultural heritage",
+    "dietary_classification": "Vegetarian (check broth), contains dairy, contains gluten in traditional preparation, can be adapted for dietary restrictions",
+    "interesting_facts": "Arborio rice selected for high starch content creating creaminess through patient stirring; constant stirring is non-negotiable—rushing results in mushy rice; risotto represents slow food movement philosophy; each family in Italy has regional variation"
   }
 ]
