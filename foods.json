@@ -552,5 +552,20 @@
     "cultural_significance": "Modern superfood bowl trending in healthy restaurants worldwide; represents contemporary nutritional science applied to traditional cuisines; popular in fitness and wellness communities",
     "dietary_classification": "Gluten-free, dairy-free, high-protein, omega-3 rich, low-carb option",
     "interesting_facts": "Omega-3 fatty acids reduce inflammation and support mental health; quinoa complete protein makes it ideal for vegetarians; salmon grilling brings out natural oils enhancing flavor and health benefits"
+  },
+  {
+    "id": "83",
+    "name": "Greek Salad with Chickpeas",
+    "category": "Salad",
+    "origin": "Mediterranean/Greece",
+    "text": "Greek Salad with Chickpeas is a nutrient-dense healthy dish combining fresh vegetables with plant-based protein. The salad includes lettuce, tomatoes, cucumbers, bell peppers, and red onions providing vitamins including folate (from lettuce), vitamin C (from peppers and tomatoes), and potassium. Chickpeas add 15 grams of protein and 12 grams of fiber per cooked cup, promoting satiety and digestive health. Feta cheese contributes calcium and probiotic benefits.",
+    "region": "Mediterranean",
+    "type": "Salad",
+    "ingredients": "Romaine lettuce, cherry tomatoes, cucumber, red bell pepper, red onion, chickpeas (canned or cooked), Kalamata olives, feta cheese, extra virgin olive oil, red wine vinegar, oregano, salt, pepper, lemon",
+    "preparation_method": "Chop lettuce, tomatoes, cucumber, peppers, and onions; drain and rinse canned chickpeas; combine vegetables and chickpeas in large bowl; add Kalamata olives and crumbled feta; prepare dressing by whisking olive oil, vinegar, oregano, salt, and pepper; toss salad just before serving to maintain crisp texture",
+    "nutritional_highlights": "15g plant-based protein per serving from chickpeas, 12g dietary fiber, 140mg calcium per ounce from feta, high antioxidants (lycopene from tomatoes, vitamin C from peppers), folate from lettuce, potassium from vegetables, only 250 calories per serving",
+    "cultural_significance": "Ancient Mediterranean staple representing healthy lifestyle in Greece; considered one of world's healthiest dishes by nutritionists; symbol of Mediterranean diet longevity benefits",
+    "dietary_classification": "Vegetarian, can be vegan if feta omitted, gluten-free, dairy-free option available",
+    "interesting_facts": "Mediterranean diet documented to reduce heart disease risk by 30%; chickpeas are ancient legume cultivated for 7,000 years; feta fermentation process creates beneficial probiotics"
   }
 ]
