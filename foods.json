@@ -612,5 +612,20 @@
     "cultural_significance": "Iconic Northern Italian dish dating back to Renaissance; Risotto alla Milanese is golden with saffron and served at formal Italian dinners; represents Italian cooking philosophy of technique and quality ingredients; UNESCO recognized as intangible cultural heritage",
     "dietary_classification": "Vegetarian (check broth), contains dairy, contains gluten in traditional preparation, can be adapted for dietary restrictions",
     "interesting_facts": "Arborio rice selected for high starch content creating creaminess through patient stirring; constant stirring is non-negotiable—rushing results in mushy rice; risotto represents slow food movement philosophy; each family in Italy has regional variation"
+  },
+  {
+    "id": "87",
+    "name": "Tacos",
+    "category": "Main Course",
+    "origin": "Mexico (Mesoamerican ancient roots)",
+    "text": "Tacos are a popular Mexican street food prepared by filling small corn or flour tortillas with seasoned meat cooked using a specific method: ground beef or shredded chicken is cooked in a skillet with onions and garlic until browned, then taco seasoning (chili powder, cumin, oregano, and red pepper flakes) is added along with a small amount of water and simmered for 5-10 minutes. The cooked meat is then placed in warmed tortillas and topped with fresh toppings.",
+    "region": "Mexico",
+    "type": "Main Course",
+    "ingredients": "Ground beef or shredded chicken, corn or flour tortillas, onion, garlic, chili powder, cumin, oregano, red pepper flakes, water, salt, lettuce, tomatoes, onion, shredded cheese, sour cream, salsa, cilantro",
+    "preparation_method": "Brown ground beef or chicken in skillet with onions and garlic over medium-high heat 4-5 minutes; add chili powder, cumin, oregano, and red pepper flakes; add 1/4 cup water and simmer 5-10 minutes until meat is well-coated and moisture reduces; warm tortillas on griddle or over flame; fill tortillas with seasoned meat; top with lettuce, tomatoes, cheese, sour cream, and salsa; serve immediately with lime wedges",
+    "nutritional_highlights": "Protein from meat (15-20g per taco), carbohydrates from tortilla, fiber from vegetables and corn tortillas, zinc and B vitamins from beef, capsaicin from spices aids metabolism, approximately 250-300 calories per taco, customizable for nutritional needs",
+    "cultural_significance": "Ancient Aztec food with 500+ year heritage; street food symbol of Mexican culture and cuisine; represents food democracy where everyone enjoys tacos; iconic symbol of Mexico worldwide",
+    "dietary_classification": "Can be vegetarian with bean filling, gluten-free with corn tortillas, dairy-free without cheese and sour cream, high-protein with meat",
+    "interesting_facts": "Tacos originated during Aztec era, originally filled with fish; each Mexican region has unique taco tradition (al pastor, carnitas, barbacoa, etc.); taco shell typically contains 12 corn kernels; stands as most consumed food in Mexico with billions eaten annually"
   }
 ]
