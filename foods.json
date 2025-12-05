@@ -492,5 +492,20 @@
     "cultural_significance": "Essential wedding and celebration appetizer; symbol of Lahore's social gatherings and hospitality; served at engagements, festivals, and formal events",
     "dietary_classification": "Not vegetarian, gluten-free, contains meat",
     "interesting_facts": "Charcoal grilling gives distinctive smoky flavor; traditionally prepared by specialized kebab makers who pass recipes through generations; popular at Lahore's famous Badshahi food stalls"
+  },
+  {
+    "id": "79",
+    "name": "Paya Gosht",
+    "category": "Main Course",
+    "origin": "Lahore, Pakistan",
+    "text": "Paya Gosht is a traditional Lahore delicacy made from animal trotters slow-cooked overnight with meat in a rich, aromatic gravy infused with ginger, garlic, and warming spices. The trotters become gelatinous and incredibly tender, absorbing all the flavors from the spice blend. This dish is particularly popular during winter months and is often consumed at dawn during Ramadan to provide sustained energy throughout the fasting day. Paya Gosht represents the resourcefulness and creativity of Lahore's culinary traditions, utilizing all parts of the animal.",
+    "region": "Lahore, Pakistan",
+    "type": "Main Course",
+    "ingredients": "Animal trotters (goat or beef), meat pieces, ginger, garlic, turmeric, cinnamon, cardamom, bay leaves, cumin, coriander, red chili powder, ghee, onions, salt, water",
+    "preparation_method": "Blanch trotters to remove impurities; slow-cook with meat and spices over 8-10 hours in heavy-bottomed pot on very low heat; long cooking breaks down collagen into gelatin creating luxurious texture; served with naan and fresh onions",
+    "nutritional_highlights": "Rich in collagen for joint health, high protein (22-26g per serving), calcium and minerals from bones, gelatin supports digestive health, iron content",
+    "cultural_significance": "Sacred Ramadan pre-dawn meal (Sehri) tradition; symbol of Lahore's resourceful cuisine; warm, comforting dish for winter; believed to have healing and medicinal properties in traditional medicine",
+    "dietary_classification": "Not vegetarian, contains animal products, high in gelatin and collagen",
+    "interesting_facts": "Must be cooked overnight to properly soften trotters; excessive heat prevents proper gelatinization; served at specialized Lahore restaurants; particularly popular in old city areas"
   }
 ]
