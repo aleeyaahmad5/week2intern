@@ -67,7 +67,7 @@ source .venv/bin/activate  # macOS/Linux
 pip install chromadb requests
 
 # Run the RAG App
-python rag_run.py
+py rag_run.py
 ```
 
 ---
@@ -128,7 +128,7 @@ response = rag_query("Which dishes teach fundamental cooking techniques?")
 
 Simply run:
 ```bash
-python rag_run.py
+py rag_run.py
 ```
 
 Then type questions directly into the interactive prompt. Type 'exit' or 'quit' to close.
@@ -223,6 +223,14 @@ The system has been tested with 15 diverse queries across 5 categories, demonstr
 - **Retrieved Food IDs:** 86, 90, 89
 - **System Response:** "Risotto is an Italian rice dish prepared through a specific cooking method that creates a creamy texture. Arborio or Carnaroli rice is first toasted in butter and onions for 2-3 minutes, then white wine is added and absorbed. Warm vegetable or chicken broth is added gradually in small amounts, approximately 1/2 cup at a time, with constant stirring after each addition until the liquid is absorbed."
 - **System Performance:** ✓ Identified stirring-intensive techniques with rationale
+
+**Evidence:** Screenshots available in `screenshots_folder_showing_system_operation_and_testing/` documenting:
+- System initialization and database loading (90 items)
+- Query 1-15 execution with retrieved context and similarity scores
+- ChromaDB embedding operations with vector dimensions
+- AI response generation with item citations and sources
+- Processing performance metrics (retrieval + generation time)
+
 
 ---
 
@@ -380,7 +388,7 @@ For questions about the RAG system, food database, or AI implementation details,
 
 ## 👨‍🍳 Credits
 
-Made by Aleeya Ahmad using:
+Made by Callum using:
 
 * [Ollama](https://ollama.com)
 * [ChromaDB](https://www.trychroma.com)
