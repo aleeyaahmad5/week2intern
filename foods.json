@@ -466,7 +466,22 @@
     "cultural_significance": "Sacred Ramadan tradition in Lahore, commonly prepared in large quantities for communal sharing and breaking fast, symbol of family unity",
     "dietary_classification": "Contains gluten (wheat grains), not vegetarian, can be made halal",
     "interesting_facts": "Ancient Mughal dish that has been part of South Asian cuisine for centuries; each family has its own recipe; traditionally cooked overnight in large communal pots"
-}
+},
+  {
+    "id": "77",
+    "name": "Karahi Gosht",
+    "category": "Main Course",
+    "origin": "Lahore, Pakistan",
+    "text": "Karahi Gosht is a vibrant, aromatic meat curry traditionally cooked in a round-bottomed wok-like pan called a karahi, which gives the dish its distinctive name. This Lahore specialty features tender pieces of lamb or beef cooked with fresh tomatoes, green peppers, and onions, combined with warming spices like cumin, coriander, and garam masala. The dry curry texture and intense flavors represent authentic Lahore street food culture. Karahi Gosht is quick to prepare and is commonly served at family dinners and celebrations throughout Lahore.",
+    "region": "Lahore, Pakistan",
+    "type": "Main Course",
+    "ingredients": "Lamb or beef chunks, tomatoes, green bell peppers, onions, ginger, garlic, garam masala, cumin, coriander, turmeric, red chili powder, ghee, salt, fresh cilantro",
+    "preparation_method": "Heat ghee in karahi pan on high heat; sauté onions until golden; add ginger-garlic paste; brown meat pieces; add spices and tomatoes; cook uncovered 20-25 minutes until meat is tender and curry is dry; garnish with cilantro",
+    "nutritional_highlights": "Rich in protein (28-32g per serving), iron, B vitamins; high in antioxidants from spices; moderate fat content when cooked with measured ghee",
+    "cultural_significance": "Iconic Lahore street food and family staple; represents modern Pakistani urban food culture; often prepared for celebrations, festivals, and casual family meals",
+    "dietary_classification": "Not vegetarian, contains dairy (ghee), can be made halal",
+    "interesting_facts": "Named after the specific cooking vessel (karahi); traditionally cooked in front of customers at street food vendors for authenticity and freshness; became popular in Pakistan during the 1980s"
+  }
 
 ]
     "name": "Haleem",
